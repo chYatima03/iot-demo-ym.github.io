@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/iot-demo-ym.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/iot-demo-ym.github.io/static/js/main.92d78ad1.js",
+    "main.js": "/iot-demo-ym.github.io/static/js/main.54b476c6.js",
     "static/js/787.30dcabdb.chunk.js": "/iot-demo-ym.github.io/static/js/787.30dcabdb.chunk.js",
     "static/media/logo.svg": "/iot-demo-ym.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/iot-demo-ym.github.io/index.html",
     "main.073c9b0a.css.map": "/iot-demo-ym.github.io/static/css/main.073c9b0a.css.map",
-    "main.92d78ad1.js.map": "/iot-demo-ym.github.io/static/js/main.92d78ad1.js.map",
+    "main.54b476c6.js.map": "/iot-demo-ym.github.io/static/js/main.54b476c6.js.map",
     "787.30dcabdb.chunk.js.map": "/iot-demo-ym.github.io/static/js/787.30dcabdb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.92d78ad1.js"
+    "static/js/main.54b476c6.js"
   ]
 }
